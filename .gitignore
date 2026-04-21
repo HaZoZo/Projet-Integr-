@@ -1,0 +1,9 @@
+.env
+data/pdfs/
+data/json/
+data/xlsx/
+CMF_SITEX_PDFs/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
